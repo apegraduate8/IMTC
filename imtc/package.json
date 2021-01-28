@@ -11,7 +11,7 @@
   "dependencies": {
     "@google-cloud/vision": "^1.7.1",
     "chokidar": "^3.3.0",
-    "electron": "^5.0.12",
+    "electron": "^9.4.0",
     "filehound": "^1.17.3"
   }
 }
